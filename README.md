@@ -51,7 +51,7 @@
   
   3) Now create a new workspace by clicking on add icon 
       
-      ![alt text](https://github.com/TanishqDsharma/Avax-ERC20-token-creator/blob/main/avax-images/w2png)
+      ![alt text](https://github.com/TanishqDsharma/Avax-ERC20-token-creator/blob/main/avax-images/w2.png)
       
       ![alt text](https://github.com/TanishqDsharma/Avax-ERC20-token-creator/blob/main/avax-images/a3.png)
        

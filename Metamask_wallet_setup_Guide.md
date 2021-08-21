@@ -24,18 +24,6 @@
    
         ![alt text](https://github.com/TanishqDsharma/SovrynNode-on-Akash/blob/main/screenshots/m9.png)
     
-  4) <b>Navigate to Settings:</b> 
-       ![alt text](https://github.com/TanishqDsharma/SovrynNode-on-Akash/blob/main/screenshots/t1.png)
-    1) <b>Choose Networks in Settings and Click on "Add Network":</b>
-       ![alt text](https://github.com/TanishqDsharma/SovrynNode-on-Akash/blob/main/screenshots/t2.png)
-    2) <b>Click on "Save" Button:</b>
-       
-       ![alt text](https://github.com/TanishqDsharma/SovrynNode-on-Akash/blob/main/screenshots/t3.png)
-       
-       <b>Now, you will have Rsk testnet available on your metamask wallet:</b>
-
-       ![alt text](https://github.com/TanishqDsharma/SovrynNode-on-Akash/blob/main/screenshots/t4.png)
-      
-  
+ 
    
    

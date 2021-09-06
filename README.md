@@ -2,17 +2,17 @@
 
 * ERC-20 tokens are the most fundamental and essential concept in Ethereum.As the Avalanche community and the ecosystem are growing, new use cases and projects that are running on Ethereum or different chains would be implemented to Avalanche.
 
-* Therefore, In this tutorial we will be minting ERC20 on Avalanche using Open Zeppeli.The token will be generated on Avalanche C-Chain and will be accessible on that chain.Further we will be using <b>"ERC20PresetMinterPauser.sol"</b> file,this file is written by OpenZeppelin according to ERC20 standards with minter functionality. After deploying this file, we will be the owner of the contract and thus have the authority and ability to mint the tokens.
+* Therefore, In this tutorial we will be minting ERC20 on Avalanche using Open Zeppelin.The token will be generated on Avalanche C-Chain and will be accessible on that chain.Further we will be using <b>"ERC20PresetMinterPauser.sol"</b> file,this file is written by OpenZeppelin according to ERC20 standards with minter functionality. After deploying this file, we will be the owner of the contract and thus have the authority and ability to mint the tokens.
 
 
-## Pre-requistes:
+## Requirements:
 
 1) <b>Create a metamask wallet:</b>
    * <b>To create a wallet using metamask:</b>
      * Go visit metamask website:https://metamask.io/
      * The there click on "Download button" and add metamask extension according to your browser(Supported browsers are: Firefox, Chrome, Brave and Edge). 
      * Open the metamask extension and create an account for yourself
-       * Follow my guide on creating wallet on metamask:<a href="https://github.com/TanishqDsharma/Avax-ERC20-token-creator/blob/main/Metamask_wallet_setup_Guide.md">Wallet-Setup-Guide</a>
+       * Follow my guide on creating a wallet on metamask:<a href="https://github.com/TanishqDsharma/Avax-ERC20-token-creator/blob/main/Metamask_wallet_setup_Guide.md">Wallet-Setup-Guide</a>
             
 2) <b>Now, navigate to Settings-> Networks and Click on the "Add Network" button and enter the below Fuji Testnet Network settings:</b>
           
@@ -177,10 +177,6 @@
  2) By following the steps I was able to mint my own ERC20 token named as "Manga Token" on "Fuji Testnet" 
     
       
-# Refrences:
 
-1) https://docs.avax.network/
-2) https://docs.avax.network/build/tutorials/smart-digital-assets/create-erc-20-token-on-avalanche-c-chain
-3) https://docs.avax.network/build/tutorials/smart-contracts
 
 
